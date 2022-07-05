@@ -16,10 +16,9 @@ Click this [link](https://youtu.be/79uq5OjmpJQ) to watch a short demo on YouTube
 4. XR Interaction Toolkit 2.0.2
 5. XR Plugin Management 4.2.0
 
-## About ARCore
-1. Motion Tracking
-2. Environmental Understanding
-3. Light Estimation
+## Project Settings
+1. Minimum API Level - Android 8.1 'Oreo' (API Level 27)
+2. Active Input Handling - Input System Package (New)
 
 ## Learning References
 1. [Joystick Lab](https://www.youtube.com/c/JoystickLab)
