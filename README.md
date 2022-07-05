@@ -10,10 +10,11 @@ Click this [link](https://youtu.be/79uq5OjmpJQ) to watch a short demo on YouTube
 3. Crosshair Interactions.
 
 ## Main Packages Used
-1. AR Foundation
-2. AR Core XR Plugin
-3. XR Interaction Toolkit
-4. XR Plugin Management
+1. AR Foundation 4.1.9
+2. AR Core XR Plugin 4.1.9
+3. Windows XR Plugin 4.6.2
+4. XR Interaction Toolkit 2.0.2
+5. XR Plugin Management 4.2.0
 
 ## About ARCore
 1. Motion Tracking
