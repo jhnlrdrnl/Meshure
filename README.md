@@ -5,7 +5,7 @@
 Click this [link](https://youtu.be/79uq5OjmpJQ) to watch a short demo on YouTube (Device: Realme 5).
 
 ## Main Features
-1. Measure lengths using 5 different units namely: Millimeters (mm), Centimeters (cm), Meters (m), Inches (in), and Foot (ft).
+1. Measure lengths using 5 different units namely: Millimeters, Centimeters, Meters, Inches, and Foot.
 2. 2 different measurement modes namely: Discrete and Continuous.
 3. Crosshair Interactions.
 
